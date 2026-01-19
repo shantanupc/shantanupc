@@ -1,6 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shantanu
-=================================================================================================================================
+<!-- Header with Typing SVG -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=Hey,+I'm+Shantanu+!!" alt="Typing SVG" />
+  </a>
+</div>
 
+<!-- Social Links -->
+<div id="social" align="center">
+  <a href="https://t.me/Shantzzzzz">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/shantanu-chimote-67a42a259">
+    <img src="https://img.shields.io/badge/Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+-------------------------------------------
 Software Developer and Custom ROM Developer
 -------------------------------------------
 
@@ -8,8 +25,3 @@ I have hands-on experience working with C++ and Java, where I focus on building 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shantanuchimote42@gmail.com](mailto:shantanuchimote42@gmail.com)
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/shantanupc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shantanu-chimote-67a42a259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
